@@ -1,2 +1,30 @@
-# Cat-photo-app--fcc-day4
-Building my first HTML project-Day 4 of #100daysofcode 
+# 100DaysOfCode - Sneha's Journey
+
+Learning HTML/CSS/JS from scratch via freeCodeCamp. 
+Started from zero. Documenting everything here.
+
+**Current Streak:** Day 4/100  
+**Current Project:** Cat Photo App - fCC
+
+---
+
+### Day 4 - 25 April 2026
+
+Started late today. Did steps 20 se 37 tak. 
+Dimag hang ho raha hai but kar liya.
+
+**Progress:** 37/42 done. 12 bache hain abhi.
+
+**Aaj kya kiya:**
+- Lists banayi - `ul` aur `ol` ka difference samjha
+- Photo add karni seekhi - `<img src="" alt="">` 
+- Link banana aaya - `<a href="">` tag
+- Page ko sections mein divide kiya - `main`, `section`, `footer` use kiya
+- Ek tag ke andar dusra tag - nesting practice hui
+
+Code thoda messy hai but chal raha hai. 
+Cat ki photo daali, "cute cats" ko clickable banaya.
+
+**Honest update:** 
+Day 1 pe laga tha ye sab mere bas ka nahi. 
+Aaj 37 steps ho gaye. 

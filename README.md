@@ -5,7 +5,7 @@ Hey! This is my #100DaysOfCode challenge repo.
 - Day 1: HTML Basics
 - Day 2: HTML Tags  
 - Day 3: Cat Photo App
-- Day 4: Coming Soon...
+- Day 4: complete cat photo app
 - Day 5: Maggi Recipe Page
 
 Learning HTML with freeCodeCamp 💚

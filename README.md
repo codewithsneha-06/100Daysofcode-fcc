@@ -11,5 +11,6 @@ Hey! This is my #100DaysOfCode challenge repo.
 - Day 7: Build a Bookstore page
 - Day 8: Understanding how HTML affects SEO
 - Day 9: Build a travel agency page
+- Day 10: Working with audio and video elements
 
 Learning HTML with freeCodeCamp 💚

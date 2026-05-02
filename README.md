@@ -12,5 +12,6 @@ Hey! This is my #100DaysOfCode challenge repo.
 - Day 8: Understanding how HTML affects SEO
 - Day 9: Build a travel agency page
 - Day 10: Working with audio and video elements
+- Day 11: Build an HTML music player
 
 Learning HTML with freeCodeCamp 💚

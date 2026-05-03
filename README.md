@@ -13,5 +13,5 @@ Hey! This is my #100DaysOfCode challenge repo.
 - Day 9: Build a travel agency page
 - Day 10: Working with audio and video elements
 - Day 11: Build an HTML music player
-
+- Day 12: Build an HTML video player
 Learning HTML with freeCodeCamp 💚

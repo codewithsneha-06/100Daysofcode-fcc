@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio & Video Player</title>
+</head>
+<body>
+    <!-- h1 for main title -->
+    <h1>freeCodeCamp Media Player</h1>
+    
+    <!-- First section for video -->
+    <section>
+        <h2>Now Playing: HTML Video Tutorial</h2>
+        <video width="640" controls>
+            <source src="https://cdn.freecodecamp.org/curriculum/labs/what-is-the-map-method-and-how-does-it-work.mp4" type="video/mp4">
+            Your browser does not support HTML5 video.
+        </video>
+    </section>
+    
+    <!-- Second section for audio -->
+    <section>
+        <h2>Now Playing: Sailing Away</h2>
+        
+        <!-- audio with direct src attribute -->
+        <audio 
+          src="https://cdn.freecodecamp.org/curriculum/js-music-player/sailing-away.mp3" 
+          controls 
+          loop
+        >
+          Your browser does not support HTML5 audio.
+        </audio>
+    </section>
+</body>
+</html>

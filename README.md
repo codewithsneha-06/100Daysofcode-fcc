@@ -15,6 +15,7 @@ Hey! This is my #100DaysOfCode challenge repo.
 - Day 11: Build an HTML music player
 - Day 12: Build an HTML video player
 - Day 13: Build an HTML Audio and Video player.
-- Day 14: Working with images and SVGS 
+- Day 14: Working with images and SVGS
+- Day 15: Build a heart icon 
   
 Learning HTML with freeCodeCamp 💚

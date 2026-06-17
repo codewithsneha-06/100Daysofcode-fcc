@@ -20,5 +20,6 @@ Hey! This is my #100DaysOfCode challenge repo.
 - Day 16: Working with the iframe elements
 - Day 17: Build a video display using iframe element
 - Day 18: Build a video compilation page
+- Day 19: Importance of semantic HTML
   
 Learning HTML with freeCodeCamp 💚

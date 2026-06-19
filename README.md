@@ -21,5 +21,6 @@ Hey! This is my #100DaysOfCode challenge repo.
 - Day 17: Build a video display using iframe element
 - Day 18: Build a video compilation page
 - Day 19: Importance of semantic HTML
-- Day 20: Build a list of major web browser 
+- Day 20: Build a list of major web browser
+- Day 21: Working with text and time semantic elements
 Learning HTML with freeCodeCamp 💚

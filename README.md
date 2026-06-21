@@ -23,4 +23,5 @@ Hey! This is my #100DaysOfCode challenge repo.
 - Day 19: Importance of semantic HTML
 - Day 20: Build a list of major web browser
 - Day 21: Working with text and time semantic elements
+- Day 22: Build Quincy's Job Tips Page
 Learning HTML with freeCodeCamp 💚
